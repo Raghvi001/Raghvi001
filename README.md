@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Raghvi Goyal  
 
-<!--
-**Raghvi001/Raghvi001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🤖 Aspiring AI/ML Engineer  
 
-Here are some ideas to get you started:
+## 🔍 About Me
+- Strong foundation in Python  
+- Learning Machine Learning & AI  
+- Interested in Data Science and NLP  
+- Building projects for AI/ML internships  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python  
+- NumPy, Pandas  
+- Matplotlib, Seaborn  
+- Scikit-learn (learning)  
+- Git & GitHub  
+
+## 🎯 Current Focus
+- Machine Learning projects  
+- GitHub profile building  
+- Internship preparation  
+
+## 📫 Connect
+- LinkedIn: (add later)
